@@ -1,6 +1,7 @@
 <template>
   <q-page class="font-poppins container__index">
     <div class="row">
+
       <div class="col-md-4 col-sm-6 col-12">
         <div style="margin: 10px">
             <div class="ZoomBoxes">
@@ -48,6 +49,7 @@
           </div>
         </div>
       </div>
+      
     </div>
   </q-page>
 </template>
