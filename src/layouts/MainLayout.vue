@@ -7,7 +7,7 @@
           OLSHM9
         </q-toolbar-title>
 
-        <div style="font-size: 10px">ICCT, CAINTA</div>
+        <div style="font-size: 16px">{{currentDateTime()}}</div>
       </q-toolbar>
     </q-header>
 
@@ -19,7 +19,8 @@
 </template>
 
 <script>
-import { defineComponent, ref } from 'vue'
+import { defineComponent, ref } from 'vue';
+import moment from 'moment'
 
 export default defineComponent({
   name: 'MainLayout',
@@ -27,6 +28,20 @@ export default defineComponent({
   components: {
     
   },
+
+  data: () => 
+    ({
+      
+    }),
+    created() 
+    {
+        setInterval(this.getNow, 1000);
+    },
+    methods: {
+      currentDateTime() {
+        return moment().format('h:mm A')
+      }
+    }
 
 })
 </script>
