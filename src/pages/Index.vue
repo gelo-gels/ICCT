@@ -57,6 +57,10 @@
                 <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://zoom.us/j/5255288358?pwd=T2QyNGgyRU9CcDBlK0REdHEvN0lyQT09">
                   <q-btn outline label="Zoom App" class="full-width" />
                 </a>
+
+                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://new.edmodo.com/groups/heap11_olshm9-group-msalarzar-37918035">
+                  <q-btn outline label="Edmodo" class="full-width q-mt-sm" />
+                </a>
               </div>
           </div>
         </div>
@@ -110,6 +114,10 @@
                 <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://zoom.us/j/7752296634?pwd=WUdRYTZ1ZjRYcHE5OUZHN1dQU2Zvdz09">
                   <q-btn outline label="Zoom App" class="full-width" />
                 </a>
+
+                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://new.edmodo.com/groups/hperdev11_mr-gulimlim_olshm9-37907016">
+                  <q-btn outline label="Edmodo" class="full-width q-mt-sm" />
+                </a>
               </div>
           </div>
         </div>
@@ -162,6 +170,10 @@
               <div class="q-mt-md">
                 <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://zoom.us/j/6590934495?pwd=WUdRYTZ1ZjRYcHE5OUZHN1dQU2Zvdz09">
                   <q-btn outline label="Zoom App" class="full-width" />
+                </a>
+
+                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://new.edmodo.com/groups/mslalim_olhmath11_olshm9-37905299">
+                  <q-btn outline label="Edmodo" class="full-width q-mt-sm" />
                 </a>
               </div>
           </div>
@@ -217,6 +229,10 @@
                       <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://zoom.us/j/95266896401?pwd=WUdRYTZ1ZjRYcHE5OUZHN1dQU2Zvdz09">
                         <q-btn outline label="Zoom App" class="full-width" />
                       </a>
+
+                      <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://new.edmodo.com/groups/hfil11_olshm9-37906048">
+                        <q-btn outline label="Edmodo" class="full-width q-mt-sm" />
+                      </a>
                     </div>
                 </div>
               </div>
@@ -268,6 +284,10 @@
               <div class="q-mt-md">
                 <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://zoom.us/j/5128036461?pwd=Wk9xRlN5SUF2UlVwVTd5YXBwa2pzdz09">
                   <q-btn outline label="Zoom App" class="full-width" />
+                </a>
+
+                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="">
+                  <q-btn outline label="Edmodo" class="full-width q-mt-sm" />
                 </a>
               </div>
           </div>
