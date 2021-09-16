@@ -52,7 +52,7 @@
               </div>
 
               <div class="q-mt-md">
-                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://zoom.us/j/5255288358?pwd=T2QyNGgyRU9CcDBlK0REdHEvN0lyQT09">
+                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="">
                   <q-btn outline label="Zoom App" class="full-width" />
                 </a>
 
