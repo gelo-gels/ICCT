@@ -52,66 +52,11 @@
               </div>
 
               <div class="q-mt-md">
-                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="">
+                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="ronin:bdfb5b960e6246288b93c360f17d47af3ccc1480">
                   <q-btn outline label="Zoom App" class="full-width" />
                 </a>
 
                 <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://new.edmodo.com/groups/hphye11_olshm9-37905876">
-                  <q-btn outline label="Edmodo" class="full-width q-mt-sm" />
-                </a>
-              </div>
-          </div>
-        </div>
-      </div>
-
-
-
-
-      <div class="col-md-4 col-sm-6 col-12">
-        <div style="margin: 10px">
-            <div class="ZoomBoxes">
-              <div class="text-bold" style="font-size: 20px">
-                OLHEAP11
-                </div>
-                <div style="font-size: 10px">
-                  9:00 AM - 10:00 AM
-                </div>
-                <div style="font-size: 10px">
-                  Mondays
-                </div>
-
-              <div style="font-size: 13px">
-                <div class="q-mt-md">
-                  Meeting ID: 5255288358 <i class="far fa-copy" />
-                </div>
-                <div>
-                  Passcode: SHS4228 <i class="far fa-copy" />
-                </div>
-              </div>
-
-              <div class="text-center">
-                <div class="q-mt-md text-bold" style="font-size: 13px">
-                  DATES
-                </div>
-                <div style="font-size: 12px">
-                  <div> 
-                    September 13, 20, 27
-                  </div>
-                  <div>
-                    October 4, 11, 25
-                  </div>
-                  <div>
-                    November 8, 15, 22
-                  </div>  
-                </div>
-              </div>
-
-              <div class="q-mt-md">
-                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://zoom.us/j/5255288358?pwd=T2QyNGgyRU9CcDBlK0REdHEvN0lyQT09">
-                  <q-btn outline label="Zoom App" class="full-width" />
-                </a>
-
-                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://new.edmodo.com/groups/heap11_olshm9-group-msalarzar-37918035">
                   <q-btn outline label="Edmodo" class="full-width q-mt-sm" />
                 </a>
               </div>
@@ -169,6 +114,64 @@
                 </a>
 
                 <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://new.edmodo.com/groups/hperdev11_mr-gulimlim_olshm9-37907016">
+                  <q-btn outline label="Edmodo" class="full-width q-mt-sm" />
+                </a>
+              </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+
+      
+      <div class="col-md-4 col-sm-6 col-12">
+        <div style="margin: 10px">
+            <div class="ZoomBoxes">
+              <div class="text-bold" style="font-size: 20px">
+                OLHEAP11
+                </div>
+                <div style="font-size: 10px">
+                  9:00 AM - 10:00 AM
+                </div>
+                <div style="font-size: 10px">
+                  Mondays
+                </div>
+
+              <div style="font-size: 13px">
+                <div class="q-mt-md">
+                  Meeting ID: 5255288358 <i class="far fa-copy" />
+                </div>
+                <div>
+                  Passcode: SHS4228 <i class="far fa-copy" />
+                </div>
+              </div>
+
+              <div class="text-center">
+                <div class="q-mt-md text-bold" style="font-size: 13px">
+                  DATES
+                </div>
+                <div style="font-size: 12px">
+                  <div> 
+                    September 13, 20, 27
+                  </div>
+                  <div>
+                    October 4, 11, 25
+                  </div>
+                  <div>
+                    November 8, 15, 22
+                  </div>  
+                </div>
+              </div>
+
+              <div class="q-mt-md">
+                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://zoom.us/j/5255288358?pwd=T2QyNGgyRU9CcDBlK0REdHEvN0lyQT09">
+                  <q-btn outline label="Zoom App" class="full-width" />
+                </a>
+
+                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://new.edmodo.com/groups/heap11_olshm9-group-msalarzar-37918035">
                   <q-btn outline label="Edmodo" class="full-width q-mt-sm" />
                 </a>
               </div>
