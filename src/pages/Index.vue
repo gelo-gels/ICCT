@@ -109,7 +109,7 @@
               </div>
 
               <div class="q-mt-md">
-                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://zoom.us/j/7752296634?pwd=WUdRYTZ1ZjRYcHE5OUZHN1dQU2Zvdz09">
+                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://us04web.zoom.us/j/7752296634?pwd=VXByeEJYSlZJRFF6MlgvQXJRLzV2UT09">
                   <q-btn outline label="Zoom App" class="full-width" />
                 </a>
 
@@ -224,7 +224,7 @@
               </div>
 
               <div class="q-mt-md">
-                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://zoom.us/j/6590934495?pwd=eGY2VXVCK3BxenNVTENGYnZBUmZIdz09">
+                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://zoom.us/j/6590934495?pwd=d3FMZncwaHMxcXg4ejgwUjRiakhtZz09">
                   <q-btn outline label="Zoom App" class="full-width" />
                 </a>
 
