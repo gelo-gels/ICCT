@@ -199,10 +199,10 @@
 
               <div style="font-size: 13px">
                 <div class="q-mt-md">
-                  Meeting ID: 6590934495 <i class="far fa-copy" />
+                  Meeting ID: 6590934495  <i class="far fa-copy" />
                 </div>
                 <div>
-                  Passcode: SHSicct <i class="far fa-copy" />
+                  Passcode: ICCT4228 <i class="far fa-copy" />
                 </div>
               </div>
 
