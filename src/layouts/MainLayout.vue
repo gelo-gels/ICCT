@@ -1,6 +1,6 @@
 <template>
   <q-layout view="lHh Lpr lFf">
-    <q-header elevated class="font-poppins" style="background-color: #003b66">
+    <q-header elevated class="font-poppins header__clr">
       <q-toolbar>
 
         <q-toolbar-title class="text-bold">
@@ -49,3 +49,13 @@ export default defineComponent({
 
 })
 </script>
+
+
+<style>
+.header__clr {
+  background: rgba( 0, 50, 87, 0.1);
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 8.5px );
+  -webkit-backdrop-filter: blur( 8.5px );
+}
+</style>
