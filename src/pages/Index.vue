@@ -11,15 +11,15 @@
     <div class="row">
 
 
-
+      <!-- MONDAYS -->
       <div class="col-md-4 col-sm-6 col-12">
         <div style="margin: 10px">
             <div class="ZoomBoxes">
               <div class="text-bold" style="font-size: 20px">
-                HPHYE11
+                {{ mon_7amTo8am.section }}
                 </div>
                 <div style="font-size: 10px">
-                  7:00 AM - 8:00 AM
+                 {{ mon_7amTo8am.time }}
                 </div>
                 <div style="font-size: 10px">
                   Mondays
@@ -27,36 +27,19 @@
 
               <div style="font-size: 13px">
                 <div class="q-mt-md">
-                  Meeting ID: 92093878316  <i class="far fa-copy" />
+                  Meeting ID: {{ mon_7amTo8am.meeting_id }}  <i class="far fa-copy" />
                 </div>
                 <div>
-                  Passcode: SHS4228 <i class="far fa-copy" />
-                </div>
-              </div>
-
-              <div class="text-center">
-                <div class="q-mt-md text-bold" style="font-size: 13px">
-                  DATES
-                </div>
-                <div style="font-size: 12px">
-                  <div> 
-                    September 13, 20, 27
-                  </div>
-                  <div>
-                    October 4, 11, 25
-                  </div>
-                  <div>
-                    November 8, 15, 22
-                  </div>  
+                  Passcode: {{ mon_7amTo8am.meeting_passcode }} <i class="far fa-copy" />
                 </div>
               </div>
 
               <div class="q-mt-md">
-                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://zoom.us/j/92093878316?pwd=WnZDZjUvWHdjeDZkYjIvV0JjaWVRZz09">
+                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" :href="mon_7amTo8am.meeting_link">
                   <q-btn outline label="Zoom App" class="full-width" />
                 </a>
 
-                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://new.edmodo.com/groups/hphye11_olshm9-37905876">
+                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" :href="mon_7amTo8am.edmodo_link">
                   <q-btn outline label="Edmodo" class="full-width q-mt-sm" />
                 </a>
               </div>
@@ -73,10 +56,10 @@
         <div style="margin: 10px">
             <div class="ZoomBoxes">
               <div class="text-bold" style="font-size: 20px">
-                HPERDEV11
+                {{ mon_8amTo9am.section }}
                 </div>
                 <div style="font-size: 10px">
-                  8:05 AM - 9:10 AM
+                  {{ mon_8amTo9am.time }}
                 </div>
                 <div style="font-size: 10px">
                   Mondays
@@ -84,36 +67,20 @@
 
               <div style="font-size: 13px">
                 <div class="q-mt-md">
-                  Meeting ID: 7752296634 <i class="far fa-copy" />
+                  Meeting ID: {{ mon_8amTo9am.meeting_id }} <i class="far fa-copy" />
                 </div>
                 <div>
-                  Passcode: HPERDEV11 <i class="far fa-copy" />
+                  Passcode: {{ mon_8amTo9am.meeting_passcode }} <i class="far fa-copy" />
                 </div>
               </div>
 
-              <div class="text-center">
-                <div class="q-mt-md text-bold" style="font-size: 13px">
-                  DATES
-                </div>
-                <div style="font-size: 12px">
-                  <div> 
-                    September 13, 20, 27
-                  </div>
-                  <div>
-                    October 4, 11, 25
-                  </div>
-                  <div>
-                    November 8, 15, 22
-                  </div>  
-                </div>
-              </div>
 
               <div class="q-mt-md">
-                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://us04web.zoom.us/j/7752296634?pwd=VXByeEJYSlZJRFF6MlgvQXJRLzV2UT09">
+                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" :href="mon_8amTo9am.meeting_link">
                   <q-btn outline label="Zoom App" class="full-width" />
                 </a>
 
-                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://new.edmodo.com/groups/hperdev11_mr-gulimlim_olshm9-37907016">
+                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" :href="mon_8amTo9am.edmodo_link">
                   <q-btn outline label="Edmodo" class="full-width q-mt-sm" />
                 </a>
               </div>
@@ -131,10 +98,10 @@
         <div style="margin: 10px">
             <div class="ZoomBoxes">
               <div class="text-bold" style="font-size: 20px">
-                OLHEAP11
+                {{ mon_9amTo10am.section }}
                 </div>
                 <div style="font-size: 10px">
-                  9:00 AM - 10:00 AM
+                  {{ mon_9amTo10am.time }}
                 </div>
                 <div style="font-size: 10px">
                   Mondays
@@ -142,36 +109,19 @@
 
               <div style="font-size: 13px">
                 <div class="q-mt-md">
-                  Meeting ID: 5255288358 <i class="far fa-copy" />
+                  Meeting ID: {{ mon_9amTo10am.meeting_id }} <i class="far fa-copy" />
                 </div>
                 <div>
-                  Passcode: SHS4228 <i class="far fa-copy" />
-                </div>
-              </div>
-
-              <div class="text-center">
-                <div class="q-mt-md text-bold" style="font-size: 13px">
-                  DATES
-                </div>
-                <div style="font-size: 12px">
-                  <div> 
-                    September 13, 20, 27
-                  </div>
-                  <div>
-                    October 4, 11, 25
-                  </div>
-                  <div>
-                    November 8, 15, 22
-                  </div>  
+                  Passcode: {{ mon_9amTo10am.meeting_passcode }} <i class="far fa-copy" />
                 </div>
               </div>
 
               <div class="q-mt-md">
-                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://zoom.us/j/5255288358?pwd=T2QyNGgyRU9CcDBlK0REdHEvN0lyQT09">
+                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" :href="mon_9amTo10am.meeting_link">
                   <q-btn outline label="Zoom App" class="full-width" />
                 </a>
 
-                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://new.edmodo.com/groups/heap11_olshm9-group-msalarzar-37918035">
+                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" :href="mon_9amTo10am.edmodo_link">
                   <q-btn outline label="Edmodo" class="full-width q-mt-sm" />
                 </a>
               </div>
@@ -179,56 +129,39 @@
         </div>
       </div>
 
+    <!-- END MONDAYS -->
 
 
-
-
+    <!-- FRIDAYS -->
 
          <div class="col-md-4 col-sm-6 col-12">
         <div style="margin: 10px">
             <div class="ZoomBoxes">
               <div class="text-bold" style="font-size: 20px">
-                OLHMATH11
+                {{ fri_7amTo8am.section }}
                 </div>
                 <div style="font-size: 10px">
-                  8:00 AM - 9:00 AM
+                  {{ fri_7amTo8am.time }}
                 </div>
                 <div style="font-size: 10px">
-                  Tuesdays
+                  Fridays
                 </div>
 
               <div style="font-size: 13px">
                 <div class="q-mt-md">
-                  Meeting ID: 6590934495  <i class="far fa-copy" />
+                  Meeting ID: {{ fri_7amTo8am.meeting_id }} <i class="far fa-copy" />
                 </div>
                 <div>
-                  Passcode: ICCT4228 <i class="far fa-copy" />
-                </div>
-              </div>
-
-              <div class="text-center">
-                <div class="q-mt-md text-bold" style="font-size: 13px">
-                  DATES
-                </div>
-                <div style="font-size: 12px">
-                  <div> 
-                    September 14, 21, 28
-                  </div>
-                  <div>
-                    October 5, 12, 26
-                  </div>
-                  <div>
-                    November 9, 16, 23
-                  </div>  
+                  Passcode: {{ fri_7amTo8am.meeting_passcode }} <i class="far fa-copy" />
                 </div>
               </div>
 
               <div class="q-mt-md">
-                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://zoom.us/j/6590934495?pwd=d3FMZncwaHMxcXg4ejgwUjRiakhtZz09">
+                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" :href="fri_7amTo8am.meeting_link">
                   <q-btn outline label="Zoom App" class="full-width" />
                 </a>
 
-                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://new.edmodo.com/groups/mslalim_olhmath11_olshm9-37905299">
+                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" :href="fri_7amTo8am.edmodo_link">
                   <q-btn outline label="Edmodo" class="full-width q-mt-sm" />
                 </a>
               </div>
@@ -246,10 +179,10 @@
               <div style="margin: 10px">
                   <div class="ZoomBoxes">
                     <div class="text-bold" style="font-size: 20px">
-                      HFIL11
+                      {{ fri_8amTo9am.section }}
                       </div>
                       <div style="font-size: 10px">
-                        7:00 AM - 8:00 AM
+                        {{ fri_8amTo9am.time }}
                       </div>
                       <div style="font-size: 10px">
                         Fridays
@@ -257,36 +190,19 @@
 
                     <div style="font-size: 13px">
                       <div class="q-mt-md">
-                        Meeting ID: 95266896401 <i class="far fa-copy" />
+                        Meeting ID: {{ fri_8amTo9am.meeting_id }} <i class="far fa-copy" />
                       </div>
                       <div>
-                        Passcode: SHS1234 <i class="far fa-copy" />
-                      </div>
-                    </div>
-
-                    <div class="text-center">
-                      <div class="q-mt-md text-bold" style="font-size: 13px">
-                        DATES
-                      </div>
-                      <div style="font-size: 12px">
-                        <div> 
-                          September 10, 17, 24
-                        </div>
-                        <div>
-                          October 1, 8, 15, 29
-                        </div>
-                        <div>
-                          November 12, 26
-                        </div>  
+                        Passcode: {{ fri_8amTo9am.meeting_passcode }} <i class="far fa-copy" />
                       </div>
                     </div>
 
                     <div class="q-mt-md">
-                      <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://zoom.us/j/95266896401?pwd=WUdRYTZ1ZjRYcHE5OUZHN1dQU2Zvdz09">
+                      <a style="text-decoration: none; color: #f0f9ff;" target="_blank" :href="fri_8amTo9am.meeting_link">
                         <q-btn outline label="Zoom App" class="full-width" />
                       </a>
 
-                      <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://new.edmodo.com/groups/hfil11_olshm9-37906048">
+                      <a style="text-decoration: none; color: #f0f9ff;" target="_blank" :href="fri_8amTo9am.edmodo_link">
                         <q-btn outline label="Edmodo" class="full-width q-mt-sm" />
                       </a>
                     </div>
@@ -302,10 +218,10 @@
         <div style="margin: 10px">
             <div class="ZoomBoxes">
               <div class="text-bold" style="font-size: 20px">
-                OLHENG11
+                {{ fri_9amTo10am.section }}
                 </div>
                 <div style="font-size: 10px">
-                  9:00 AM - 10:00 AM
+                  {{ fri_9amTo10am.time }}
                 </div>
                 <div style="font-size: 10px">
                   Fridays
@@ -313,36 +229,19 @@
 
               <div style="font-size: 13px">
                 <div class="q-mt-md">
-                  Meeting ID: 5128036461 <i class="far fa-copy" />
+                  Meeting ID: {{ fri_9amTo10am.meeting_id }} <i class="far fa-copy" />
                 </div>
                 <div>
-                  Passcode: SHS4228 <i class="far fa-copy" />
-                </div>
-              </div>
-
-              <div class="text-center">
-                <div class="q-mt-md text-bold" style="font-size: 13px">
-                  DATES
-                </div>
-                <div style="font-size: 12px">
-                  <div> 
-                    September 10, 17, 24
-                  </div>
-                  <div>
-                    October 1, 8, 15, 29
-                  </div>
-                  <div>
-                    November 12, 26
-                  </div>  
+                  Passcode: {{ fri_9amTo10am.meeting_passcode }} <i class="far fa-copy" />
                 </div>
               </div>
 
               <div class="q-mt-md">
-                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="https://zoom.us/j/5128036461?pwd=Wk9xRlN5SUF2UlVwVTd5YXBwa2pzdz09">
+                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" :href="fri_9amTo10am.meeting_link">
                   <q-btn outline label="Zoom App" class="full-width" />
                 </a>
 
-                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" href="">
+                <a style="text-decoration: none; color: #f0f9ff;" target="_blank" :href="fri_9amTo10am.edmodo_link">
                   <q-btn outline label="Edmodo" class="full-width q-mt-sm" />
                 </a>
               </div>
@@ -357,21 +256,175 @@
 
 
     </div>
+
+
+  <div class="text-center">
+    <q-btn class="text-bold q-mb-md text-center dateToday q-mt-xl" style="font-size: 24px; cursor: pointer"  @click="persistent = true">
+        PSST POGI PAPINDOT AKO
+    </q-btn>
+  </div>
+    
+    <q-dialog v-model="persistent" persistent maximized>
+      <q-card class="bg-transparent text-white">
+        
+        <q-img src="https://i.imgur.com/5wYBMwc.png" style="width: 100%; height: 100%">
+        
+          
+
+          <div class="absolute-top-left bg-transparent text-subtitle1 text-center">
+            <q-btn flat v-close-popup>
+            gago
+          </q-btn>
+          </div>
+        </q-img>
+
+      </q-card>
+    </q-dialog>
+
   </q-page>
 </template>
 
 <script>
-import { defineComponent } from 'vue';
+import { defineComponent, ref } from 'vue';
 import moment from 'moment'
 
     export default defineComponent({
       name: 'PageIndex',
 
+      data: () => 
+        ({
+          mon_7amTo8am: 
+            { 
+              section: 'OLHPFP12',
+              time: '7:00 AM - 8:00 AM', 
+              meeting_id: '', 
+              meeting_passcode: '',
+              meeting_link: '',
+              edmodo_link: ''
+            },
+
+          mon_8amTo9am: 
+            { 
+              section: 'OLHSOSC12',
+              time: '8:00 AM - 9:00 AM', 
+              meeting_id: '', 
+              meeting_passcode: '',
+              meeting_link: '',
+              edmodo_link: ''
+            },
+            
+          mon_9amTo10am: 
+            { 
+              section: 'OLHPHYE12',
+              time: '9:00 AM - 10:00 AM', 
+              meeting_id: '', 
+              meeting_passcode: '',
+              meeting_link: '',
+              edmodo_link: ''
+            },
+
+
+          fri_7amTo8am: 
+            { 
+              section: 'OLHENG12',
+              time: '7:00 AM - 8:00 AM', 
+              meeting_id: '9858347560', 
+              meeting_passcode: 'SHS2022',
+              meeting_link: 'https://zoom.us/j/9858347560',
+              edmodo_link: ''
+            },
+
+          fri_8amTo9am: 
+            { 
+              section: 'OLHFIL12',
+              time: '8:00 AM - 9:00 AM', 
+              meeting_id: '', 
+              meeting_passcode: '',
+              meeting_link: '',
+              edmodo_link: ''
+            },
+
+          fri_9amTo10am: 
+            { 
+              section: 'OLHMATH12',
+              time: '9:00 AM - 10:00 AM', 
+              meeting_id: '', 
+              meeting_passcode: '',
+              meeting_link: '',
+              edmodo_link: ''
+            },
+
+
+            persistent: ref(false)
+        }),
+
       methods: {
       currentDateTime() {
         return moment().format('MMMM DD YYYY')
       }
-    }
+  },
+
+      mounted() {
+
+        if( this.mon_7amTo8am.meeting_id == '')
+        {
+          this.mon_7amTo8am.meeting_id = 'Unavailable'
+        }
+        if( this.mon_7amTo8am.meeting_passcode == '')
+        {
+          this.mon_7amTo8am.meeting_passcode = 'Unavailable'
+        }
+
+
+        if( this.mon_8amTo9am.meeting_id == '')
+        {
+          this.mon_8amTo9am.meeting_id = 'Unavailable'
+        }
+        if( this.mon_8amTo9am.meeting_passcode == '')
+        {
+          this.mon_8amTo9am.meeting_passcode = 'Unavailable'
+        }
+
+
+        if( this.mon_9amTo10am.meeting_id == '')
+        {
+          this.mon_9amTo10am.meeting_id = 'Unavailable'
+        }
+        if( this.mon_9amTo10am.meeting_passcode == '')
+        {
+          this.mon_9amTo10am.meeting_passcode = 'Unavailable'
+        }
+
+
+        if( this.fri_7amTo8am.meeting_id == '')
+        {
+          this.fri_7amTo8am.meeting_id = 'Unavailable'
+        }
+        if( this.fri_7amTo8am.meeting_passcode == '')
+        {
+          this.fri_7amTo8am.meeting_passcode = 'Unavailable'
+        }
+
+
+        if( this.fri_8amTo9am.meeting_id == '')
+        {
+          this.fri_8amTo9am.meeting_id = 'Unavailable'
+        }
+        if( this.fri_8amTo9am.meeting_passcode == '')
+        {
+          this.fri_8amTo9am.meeting_passcode = 'Unavailable'
+        }
+
+
+        if( this.fri_9amTo10am.meeting_id == '')
+        {
+          this.fri_9amTo10am.meeting_id = 'Unavailable'
+        }
+        if( this.fri_9amTo10am.meeting_passcode == '')
+        {
+          this.fri_9amTo10am.meeting_passcode = 'Unavailable'
+        }
+      }
     });
 
 
@@ -381,17 +434,23 @@ import moment from 'moment'
 
 <style>
 .ZoomBoxes {
-  border: 1px solid #a1a1a1;
   padding: 20px;
-  background-color: #002c4d;
-  border-radius: 4px;
+  border-radius: 13px;
   width: 100%;
   height: 100%;
   cursor: pointer;
   transition: 1s;
+  background: rgba( 0, 50, 87, 0.1);
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 8.5px );
+  -webkit-backdrop-filter: blur( 8.5px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 .ZoomBoxes:hover {
-  background-color: #003257;
+  background-color: rgba( 0, 50, 87, 0.5);
+  transform: scale(1.1);
+  box-shadow: 0px 0px 100px 1px #e0e0e0;
 }
 .container__index {
   /* margin-left: 300px;
@@ -399,14 +458,18 @@ import moment from 'moment'
   max-width: 1000px;
   margin: 0 auto !important; 
 	float: none !important; 
-  padding: 30px 30px 0px 30px
+  padding: 30px 30px 0px 30px;
 }
 .dateToday {
-  border: 1px solid #a1a1a1;
   padding: 15px 10px;
   margin-left: 10px;
   margin-right: 10px;
-  background-color: #002c4d;
-  border-radius: 4px;
+  border-radius: 13px;
+    background: rgba( 0, 50, 87, 0.1);
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 8.5px );
+  -webkit-backdrop-filter: blur( 8.5px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 </style>
