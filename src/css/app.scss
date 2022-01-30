@@ -15,3 +15,20 @@ html {
     background-position: bottom;
     background-repeat: no-repeat;
 }
+
+::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #001F36;
+}
+
+::-webkit-scrollbar
+{
+	width: 3px;
+	background-color: #001F36;
+}
+
+::-webkit-scrollbar-thumb
+{
+	background-color: #00060a;
+}
