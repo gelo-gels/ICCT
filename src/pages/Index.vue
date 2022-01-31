@@ -32,10 +32,10 @@
 
               <div style="font-size: 13px">
                 <div class="q-mt-md">
-                  Meeting ID: {{ mon_7amTo8am.meeting_id }}  <i class="far fa-copy" />
+                  Meeting ID: {{ mon_7amTo8am.meeting_id }}<i class="far fa-copy q-pl-xs" />
                 </div>
                 <div>
-                  Passcode: {{ mon_7amTo8am.meeting_passcode }} <i class="far fa-copy" />
+                  Passcode: {{ mon_7amTo8am.meeting_passcode }}<i class="far fa-copy q-pl-xs" />
                 </div>
               </div>
 
@@ -77,10 +77,10 @@
 
               <div style="font-size: 13px">
                 <div class="q-mt-md">
-                  Meeting ID: {{ mon_8amTo9am.meeting_id }} <i class="far fa-copy" />
+                  Meeting ID: {{ mon_8amTo9am.meeting_id }}<i class="far fa-copy q-pl-xs" />
                 </div>
                 <div>
-                  Passcode: {{ mon_8amTo9am.meeting_passcode }} <i class="far fa-copy" />
+                  Passcode: {{ mon_8amTo9am.meeting_passcode }}<i class="far fa-copy q-pl-xs" />
                 </div>
               </div>
 
@@ -124,10 +124,10 @@
 
               <div style="font-size: 13px">
                 <div class="q-mt-md">
-                  Meeting ID: {{ mon_9amTo10am.meeting_id }} <i class="far fa-copy" />
+                  Meeting ID: {{ mon_9amTo10am.meeting_id }}<i class="far fa-copy q-pl-xs" />
                 </div>
                 <div>
-                  Passcode: {{ mon_9amTo10am.meeting_passcode }} <i class="far fa-copy" />
+                  Passcode: {{ mon_9amTo10am.meeting_passcode }}<i class="far fa-copy q-pl-xs" />
                 </div>
               </div>
 
@@ -169,10 +169,10 @@
 
               <div style="font-size: 13px">
                 <div class="q-mt-md">
-                  Meeting ID: {{ fri_7amTo8am.meeting_id }} <i class="far fa-copy" />
+                  Meeting ID: {{ fri_7amTo8am.meeting_id }}<i class="far fa-copy q-pl-xs" />
                 </div>
                 <div>
-                  Passcode: {{ fri_7amTo8am.meeting_passcode }} <i class="far fa-copy" />
+                  Passcode: {{ fri_7amTo8am.meeting_passcode }}<i class="far fa-copy q-pl-xs" />
                 </div>
               </div>
 
@@ -215,10 +215,10 @@
 
                     <div style="font-size: 13px">
                       <div class="q-mt-md">
-                        Meeting ID: {{ fri_8amTo9am.meeting_id }} <i class="far fa-copy" />
+                        Meeting ID: {{ fri_8amTo9am.meeting_id }}<i class="far fa-copy q-pl-xs" />
                       </div>
                       <div>
-                        Passcode: {{ fri_8amTo9am.meeting_passcode }} <i class="far fa-copy" />
+                        Passcode: {{ fri_8amTo9am.meeting_passcode }}<i class="far fa-copy q-pl-xs" />
                       </div>
                     </div>
 
@@ -259,10 +259,10 @@
 
                 <div style="font-size: 13px">
                   <div class="q-mt-md">
-                    Meeting ID: {{ fri_9amTo10am.meeting_id }} <i class="far fa-copy" />
+                    Meeting ID: {{ fri_9amTo10am.meeting_id }}<i class="far fa-copy q-pl-xs" />
                   </div>
                   <div>
-                    Passcode: {{ fri_9amTo10am.meeting_passcode }} <i class="far fa-copy" />
+                    Passcode: {{ fri_9amTo10am.meeting_passcode }}<i class="far fa-copy q-pl-xs" />
                   </div>
                 </div>
 
@@ -331,7 +331,7 @@ import moment from 'moment'
               section: 'OLHPFP12',
               time: '7:00 AM - 8:00 AM', 
               meeting_id: '7384807140', 
-              meeting_passcode: 'SHS4228',
+              meeting_passcode: '#SHS4228',
               meeting_link: 'https://us05web.zoom.us/j/7384807140?pwd=Q1ZSZFhEVVJpOG9jUkZWNFpCa2pkQT09',
               edmodo_link: 'https://new.edmodo.com/groups/hpfp12_olshm9_albino_mon-7am-8am-pagsulat-38288485',
               active: false
@@ -342,8 +342,8 @@ import moment from 'moment'
               section: 'OLHSOSC12',
               time: '8:00 AM - 9:00 AM', 
               meeting_id: '5255288358', 
-              meeting_passcode: 'SHS4228',
-              meeting_link: 'https://us05web.zoom.us/j/5255288358?pwd=T2QyNGgyRU9CcDBlK0REdHEvN0lyQT09',
+              meeting_passcode: '#SHS4228',
+              meeting_link: 'https://us02web.zoom.us/j/5255288358?pwd=TUM1bmk2citTaFRGMi9ZWXp2M1h1Zz09',
               edmodo_link: 'https://new.edmodo.com/groups/olshm9-olhsosc12-msanna-38296120',
               active: false
             },
@@ -388,7 +388,7 @@ import moment from 'moment'
               time: '9:00 AM - 10:00 AM', 
               meeting_id: '96722325947', 
               meeting_passcode: '188877',
-              meeting_link: 'https://zoom.us/j/96722325947',
+              meeting_link: 'https://zoom.us/j/96722325947?pwd=am50eW11Y2NFSjdXMFR0M1dPMDZTdz09',
               edmodo_link: 'https://new.edmodo.com/groups/olshm9_hmath12-38286993',
               active: false
             },
@@ -480,10 +480,25 @@ import moment from 'moment'
                 }
                 else
                 {
-                  this.fri_9amTo10am.active = false
+                  this.fri_9amTo10am.active = false 
                 }
 
               },
+
+
+
+
+
+              // async copy() {
+              //   var copyText = document.getElementById("myInput");
+              //   copyText.select();
+              //   copyText.setSelectionRange(0, 99999)
+              //   document.execCommand("copy");
+              //   this.tool_tip = true;
+              //   setTimeout(() => {
+              //   this.tool_tip = false;
+              // }, 2000);
+            // },
         },
 
       mounted() {
