@@ -364,9 +364,9 @@ import moment from 'moment'
             { 
               section: 'OLHENG12',
               time: '7:00 AM - 8:00 AM', 
-              meeting_id: '9858347560', 
+              meeting_id: '88194182028', 
               meeting_passcode: 'SHS2022',
-              meeting_link: 'https://zoom.us/j/9858347560?pwd=WmJ6U0Jxd0xZcVFWYVFSeEMwMzcyZz09',
+              meeting_link: 'https://zoom.us/j/88194182028?pwd=SWloRXRxQ0RCRXNUZW1zdEIwOG5kdz09',
               edmodo_link: 'https://new.edmodo.com/groups/olshm9_olheng12_mr-gulimlim-38297668',
               active: false
             },
@@ -376,8 +376,8 @@ import moment from 'moment'
               section: 'OLHFIL12',
               time: '8:00 AM - 9:00 AM', 
               meeting_id: '95266896401', 
-              meeting_passcode: 'SHS1234',
-              meeting_link: 'https://zoom.us/j/95266896401?pwd=WUdRYTZ1ZjRYcHE5OUZHN1dQU2Zvdz09',
+              meeting_passcode: '#SHS4228',
+              meeting_link: 'https://zoom.us/j/95266896401?pwd=ZlFvWHpBZ3FrK21oR2RJdS85Wmk4Zz09',
               edmodo_link: 'https://new.edmodo.com/groups/olhfil12_olshm9-38288923',
               active: false
             },
@@ -386,9 +386,9 @@ import moment from 'moment'
             { 
               section: 'OLHMATH12',
               time: '9:00 AM - 10:00 AM', 
-              meeting_id: '96722325947', 
-              meeting_passcode: '188877',
-              meeting_link: 'https://zoom.us/j/96722325947?pwd=am50eW11Y2NFSjdXMFR0M1dPMDZTdz09',
+              meeting_id: '88194182028', 
+              meeting_passcode: '#SHS4228',
+              meeting_link: 'https://us02web.zoom.us/j/88194182028?pwd=SWloRXRxQ0RCRXNUZW1zdEIwOG5kdz09',
               edmodo_link: 'https://new.edmodo.com/groups/olshm9_hmath12-38286993',
               active: false
             },
