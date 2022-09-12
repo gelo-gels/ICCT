@@ -15,7 +15,7 @@
         </div>
         <div v-for="client in videos" style="margin: 0 auto">
           <video width="300" height="240" controls>
-            <source :src="client.pathLong" type="video/mp4">
+            <source :src="client.pathLong" type="video/mp4"> 
           </video>
         </div>
       </div>
