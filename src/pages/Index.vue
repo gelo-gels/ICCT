@@ -362,7 +362,7 @@ import moment from 'moment'
           fri_11amTo12pm: 
             { 
               section: 'HELS21',
-              time: '10:00 AM - 11:00 AM', 
+              time: '11:00 AM - 12:00 PM', 
               meeting_link: 'https://us04web.zoom.us/j/2247871067?pwd=bS9KaTBsV2hkZGNrbmR3WGI5cWVnQT09',
               active: false
             },
