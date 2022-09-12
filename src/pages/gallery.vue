@@ -59,8 +59,15 @@ export default ({
 </script>
 
 
-<style scoped>
+<style>
 
-
+.container__index {
+  /* margin-left: 300px;
+  margin-right: 300px; */
+  max-width: 1000px;
+  margin: 0 auto !important; 
+  float: none !important; 
+  padding: 30px 30px 0px 30px;
+}
 </style>
 
