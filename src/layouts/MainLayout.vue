@@ -4,7 +4,7 @@
       <q-toolbar>
 
         <q-toolbar-title class="text-bold">
-          OLSHM9
+          LFCASH211M009
         </q-toolbar-title>
 
         <div style="font-size: 16px">{{ timestamp }}</div>
