@@ -13,7 +13,7 @@
 
 
 
-    <div class="row">
+    <div class="row" style="display: none">
 
 
       <!-- MONDAYS -->
@@ -283,6 +283,354 @@
                   </a>
 
                 </div>
+            </div>
+          </div>
+        </div>
+
+        
+
+    </div>
+
+    <div class="row">
+      <div class="col-4">
+          <div style="margin: 10px">
+            <div class="ZoomInactiveBoxes">
+              <div class="text-bold text-center" style="font-size: 20px">
+                Monday
+              </div>
+            </div>
+          </div>
+          <div style="margin: 10px">
+            <div class="ZoomInactiveBoxes">
+              <div class="text-center text-bold" style="font-size: 15px; color: red">
+                FACE TO FACE
+              </div>
+
+              <div>
+
+              <a href="https://us05web.zoom.us/j/9642197356?pwd=TEw3b05Iang4T1BCWUtXdUZhUVlSZz09" target="_blank" style="text-decoration: none">
+                <div class="text-center text-bold ZoomBoxes" style="font-size: 15px; color: white; margin-top: 15px" >
+                  <div style="text-decoration: underline;">
+                    TVPROG3
+                  </div>
+                  <div>
+                    8:00 - 9:00AM
+                  </div>
+                  <div>
+                    Mr. Jasper
+                  </div>
+                </div>
+              </a>
+
+              <a href="https://us04web.zoom.us/j/3156411146?pwd=g96fTmNLtShDaaAvADPu6Reh1U1HgY.1" target="_blank" style="text-decoration: none">
+                <div class="text-center text-bold ZoomBoxes" style="font-size: 15px; color: white; margin-top: 15px">
+                  <div style="text-decoration: underline;">
+                    OLHMI
+                  </div>
+                  <div>
+                    11:00 - 12:00NN
+                  </div>
+                  <div>
+                    Mr. Danilo
+                  </div>
+                </div>
+              </a>
+
+              <a href="https://us04web.zoom.us/j/3156411146?pwd=g96fTmNLtShDaaAvADPu6Reh1U1HgY.1" target="_blank" style="text-decoration: none">
+                <div class="text-center text-bold ZoomBoxes" style="font-size: 15px; color: white; margin-top: 15px" >
+                  <div style="text-decoration: underline;">
+                    HPS22
+                  </div>
+                  <div>
+                    2:00 - 3:00PM
+                  </div>
+                  <div>
+                    Ms. Mercy
+                  </div>
+                </div>
+              </a>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-4">
+          <div style="margin: 10px">
+            <div class="ZoomInactiveBoxes">
+              <div class="text-bold text-center" style="font-size: 20px">
+                Tuesday
+              </div>
+            </div>
+          </div>
+          <div style="margin: 10px">
+            <div class="ZoomInactiveBoxes">
+              <div class="text-center text-bold" style="font-size: 15px; color: red">
+                ONLINE
+              </div>
+
+              <div>
+
+              <a href="https://us05web.zoom.us/j/9642197356?pwd=TEw3b05Iang4T1BCWUtXdUZhUVlSZz09" target="_blank" style="text-decoration: none">
+                <div class="text-center text-bold ZoomBoxes" style="font-size: 15px; color: white; margin-top: 15px" >
+                  <div style="text-decoration: underline;">
+                    TVPROG3
+                  </div>
+                  <div>
+                    12:00 - 1:00PM
+                  </div>
+                  <div>
+                    Mr. Jasper
+                  </div>
+                </div>
+              </a>
+
+              <a href="https://us04web.zoom.us/j/4949080796?pwd=R8D5UNyPO2fHE6BUJXaIfHgvRwl2XL.1" target="_blank" style="text-decoration: none">
+                <div class="text-center text-bold ZoomBoxes" style="font-size: 15px; color: white; margin-top: 15px">
+                  <div style="text-decoration: underline;">
+                    HRES
+                  </div>
+                  <div>
+                    4:00 - 5:00PM
+                  </div>
+                  <div>
+                    (ST) Ms. Mariz
+                  </div>
+                </div>
+              </a>
+
+              <a href="#" target="_blank" style="text-decoration: none">
+                <div class="text-center text-bold ZoomBoxes" style="font-size: 15px; color: white; margin-top: 15px; visibility: hidden" >
+                  <div style="text-decoration: underline;">
+                    blank
+                  </div>
+                  <div>
+                    blank
+                  </div>
+                  <div>
+                    blank
+                  </div>
+                </div>
+              </a>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-4">
+          <div style="margin: 10px">
+            <div class="ZoomInactiveBoxes">
+              <div class="text-bold text-center" style="font-size: 20px">
+                Wednesday
+              </div>
+            </div>
+          </div>
+          <div style="margin: 10px">
+            <div class="ZoomInactiveBoxes">
+              <div class="text-center text-bold" style="font-size: 15px; color: red">
+                ONLINE
+              </div>
+
+              <div>
+
+              <a href="https://icct-edu-ph.zoom.us/j/8378458803?pwd=YzZlYWRiSGhRVWtUQjZpWWR2Q0xWdz09" target="_blank" style="text-decoration: none">
+                <div class="text-center text-bold ZoomBoxes" style="font-size: 15px; color: white; margin-top: 15px" >
+                  <div style="text-decoration: underline;">
+                    HCL21
+                  </div>
+                  <div>
+                    3:00 - 4:00PM
+                  </div>
+                  <div>
+                    (ST) Mr. Daniel
+                  </div>
+                </div>
+              </a>
+
+              <a href="https://us04web.zoom.us/j/4949080796?pwd=R8D5UNyPO2fHE6BUJXaIfHgvRwl2XL.1" target="_blank" style="text-decoration: none">
+                <div class="text-center text-bold ZoomBoxes" style="font-size: 15px; color: white; margin-top: 15px">
+                  <div style="text-decoration: underline;">
+                    HRES
+                  </div>
+                  <div>
+                    4:00 - 5:00PM
+                  </div>
+                  <div>
+                    (ST) Ms. Mariz
+                  </div>
+                </div>
+              </a>
+
+              <a href="#" target="_blank" style="text-decoration: none">
+                <div class="text-center text-bold ZoomBoxes" style="font-size: 15px; color: white; margin-top: 15px; visibility: hidden" >
+                  <div style="text-decoration: underline;">
+                    blank
+                  </div>
+                  <div>
+                    blank
+                  </div>
+                  <div>
+                    blank
+                  </div>
+                </div>
+              </a>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-4">
+          <div style="margin: 10px">
+            <div class="ZoomInactiveBoxes">
+              <div class="text-bold text-center" style="font-size: 20px">
+                Thursday
+              </div>
+            </div>
+          </div>
+          <div style="margin: 10px">
+            <div class="ZoomInactiveBoxes">
+              <div class="text-center text-bold" style="font-size: 15px; color: red">
+                ONLINE
+              </div>
+
+              <div>
+
+              <a href="https://us04web.zoom.us/j/3156411146?pwd=g96fTmNLtShDaaAvADPu6Reh1U1HgY.1" target="_blank" style="text-decoration: none">
+                <div class="text-center text-bold ZoomBoxes" style="font-size: 15px; color: white; margin-top: 15px" >
+                  <div style="text-decoration: underline;">
+                    HPS22
+                  </div>
+                  <div>
+                    12:00 - 1:00PM
+                  </div>
+                  <div>
+                    Ms. Mercy
+                  </div>
+                </div>
+              </a>
+
+              <a href="https://icct-edu-ph.zoom.us/j/8378458803?pwd=YzZlYWRiSGhRVWtUQjZpWWR2Q0xWdz09" target="_blank" style="text-decoration: none">
+                <div class="text-center text-bold ZoomBoxes" style="font-size: 15px; color: white; margin-top: 15px">
+                  <div style="text-decoration: underline;">
+                    HCL21
+                  </div>
+                  <div>
+                    3:00 - 4:00PM
+                  </div>
+                  <div>
+                    (ST) Mr. Daniel
+                  </div>
+                </div>
+              </a>
+
+              <a href="#" target="_blank" style="text-decoration: none">
+                <div class="text-center text-bold ZoomBoxes" style="font-size: 15px; color: white; margin-top: 15px; visibility: hidden" >
+                  <div style="text-decoration: underline;">
+                    blank
+                  </div>
+                  <div>
+                    blank
+                  </div>
+                  <div>
+                    blank
+                  </div>
+                </div>
+              </a>
+              
+              <a href="#" target="_blank" style="text-decoration: none">
+                <div class="text-center text-bold ZoomBoxes" style="font-size: 15px; color: white; margin-top: 15px; visibility: hidden" >
+                  <div style="text-decoration: underline;">
+                    blank
+                  </div>
+                  <div>
+                    blank
+                  </div>
+                  <div>
+                    blank
+                  </div>
+                </div>
+              </a>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-4">
+          <div style="margin: 10px">
+            <div class="ZoomInactiveBoxes">
+              <div class="text-bold text-center" style="font-size: 20px">
+                Friday
+              </div>
+            </div>
+          </div>
+          <div style="margin: 10px">
+            <div class="ZoomInactiveBoxes">
+              <div class="text-center text-bold" style="font-size: 15px; color: red">
+                ONLINE
+              </div>
+
+              <div>
+
+              <a href="https://us05web.zoom.us/j/9642197356?pwd=TEw3b05Iang4T1BCWUtXdUZhUVlSZz09" target="_blank" style="text-decoration: none">
+                <div class="text-center text-bold ZoomBoxes" style="font-size: 15px; color: white; margin-top: 15px" >
+                  <div style="text-decoration: underline;">
+                    TVPROG3
+                  </div>
+                  <div>
+                    12:00 - 1:00PM
+                  </div>
+                  <div>
+                    Mr. Jasper
+                  </div>
+                </div>
+              </a>
+
+              <a href="https://us04web.zoom.us/j/3156411146?pwd=g96fTmNLtShDaaAvADPu6Reh1U1HgY.1" target="_blank" style="text-decoration: none">
+                <div class="text-center text-bold ZoomBoxes" style="font-size: 15px; color: white; margin-top: 15px">
+                  <div style="text-decoration: underline;">
+                    OLHMI
+                  </div>
+                  <div>
+                    2:00 - 3:00PM
+                  </div>
+                  <div>
+                    Mr. Danilo
+                  </div>
+                </div>
+              </a>
+
+              <a href="https://icct-edu-ph.zoom.us/j/8378458803?pwd=YzZlYWRiSGhRVWtUQjZpWWR2Q0xWdz09" target="_blank" style="text-decoration: none">
+                <div class="text-center text-bold ZoomBoxes" style="font-size: 15px; color: white; margin-top: 15px" >
+                  <div style="text-decoration: underline;">
+                    HCL21
+                  </div>
+                  <div>
+                    3:00 - 4PM
+                  </div>
+                  <div>
+                    (ST) Mr. Daniel
+                  </div>
+                </div>
+              </a>
+              
+              <a href="https://us04web.zoom.us/j/4949080796?pwd=R8D5UNyPO2fHE6BUJXaIfHgvRwl2XL.1" target="_blank" style="text-decoration: none">
+                <div class="text-center text-bold ZoomBoxes" style="font-size: 15px; color: white; margin-top: 15px" >
+                  <div style="text-decoration: underline;">
+                    HRES
+                  </div>
+                  <div>
+                    4:00 - 5:00PM
+                  </div>
+                  <div>
+                    (ST) Ms. Mariz
+                  </div>
+                </div>
+              </a>
+
+              </div>
             </div>
           </div>
         </div>
