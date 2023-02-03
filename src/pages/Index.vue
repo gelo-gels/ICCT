@@ -427,7 +427,7 @@
                 </div>
               </a>
 
-              <a href="https://i.imgur.com/E98Qqvj.png" target="_blank" style="text-decoration: none">
+              <a href="https://scontent.fmnl17-1.fna.fbcdn.net/v/t1.15752-9/329011172_1620537118368549_5294982453361485063_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeFknUYxpZXfnWVrPH1lzSCCRMGFhD7aoMZEwYWEPtqgxiddb5txjBDUZ_iIAl7pToxpC_rh9a3RkXTItqfbTdAl&_nc_ohc=08p_YyeYN-UAX_0bMee&_nc_ht=scontent.fmnl17-1.fna&oh=03_AdSpcTNk9nuSRRWMYcEBQ6vdqS2RCunEbvPDDB06263ajA&oe=640421EA" target="_blank" style="text-decoration: none">
                 <div class="text-center text-bold ZoomBoxes" style="font-size: 15px; color: white; margin-top: 15px;" >
                   <div style="text-decoration: underline; visibility: hidden">
                     blank
@@ -441,15 +441,15 @@
                 </div>
               </a>
 
-             <a target="_blank" style="text-decoration: none">
-                <div class="text-center text-bold ZoomBoxes" style="font-size: 15px; color: white; margin-top: 15px; visibility: hidden" >
-                  <div style="text-decoration: underline;">
+             <a href="https://scontent.fmnl17-1.fna.fbcdn.net/v/t1.15752-9/260816106_249713733811598_8801772581978057508_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGY_ZcMFYYOyBkScFR5yTE68YpsgpDlmxnximyCkOWbGeapUVF-0bnrPeIqT64mpki_h0y_T0GXZOmSwaOHwk3G&_nc_ohc=sULmVGDLeQMAX8seaA-&_nc_ht=scontent.fmnl17-1.fna&oh=03_AdTa6W71IPhXfXWsE3LxnbAN2pcYqP2BZrFdK91BpkeHZQ&oe=64040F9B" target="_blank" style="text-decoration: none">
+                <div class="text-center text-bold ZoomBoxes" style="font-size: 15px; color: white; margin-top: 15px;" >
+                  <div style="text-decoration: underline; visibility: hidden">
                     blank
                   </div>
                   <div>
-                    blank
+                    Asim
                   </div>
-                  <div>
+                  <div style="visibility: hidden">
                     blank
                   </div>
                 </div>
@@ -520,8 +520,49 @@ import moment from 'moment'
                 console.log(this.timestamp);
 
 
+                if(this.timestamp == "Mon 8 am" || this.timestamp == "Mon 11 am" || this.timestamp == "Mon 2 pm")
+                {
+                  this.monday.active = true
+                }
+                else
+                {
+                  this.monday.active = false 
+                }
 
-                if(this.timestamp == "Fri 2 pm")
+
+
+                if(this.timestamp == "Tue 12 pm" || this.timestamp == "Tue 4 pm")
+                {
+                  this.tuesday.active = true
+                }
+                else
+                {
+                  this.tuesday.active = false 
+                }
+
+
+                if(this.timestamp == "Wed 3 pm" || this.timestamp == "Wed 4 pm")
+                {
+                  this.wednesday.active = true
+                }
+                else
+                {
+                  this.wednesday.active = false 
+                }
+
+
+                if(this.timestamp == "thu 12 pm" || this.timestamp == "thu 3 pm")
+                {
+                  this.thursday.active = true
+                }
+                else
+                {
+                  this.thursday.active = false 
+                }
+
+
+
+                if(this.timestamp == "Fri 12 pm" || this.timestamp == "Fri 2 pm" || this.timestamp == "Fri 3 pm" || this.timestamp == "Fri 4 pm")
                 {
                   this.friday.active = true
                 }

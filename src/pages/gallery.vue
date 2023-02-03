@@ -1,5 +1,5 @@
 <template>
-  <div class="container__index">
+  <div class="container__index_gallery">
 
     <div class="text-bold q-mb-md text-center dateToday" style="font-size: 24px">
         Gallery
@@ -61,7 +61,7 @@ export default ({
 
 <style>
 
-.container__index {
+.container__index_gallery {
   /* margin-left: 300px;
   margin-right: 300px; */
   max-width: 1000px;
