@@ -14,14 +14,14 @@
     <div class="row">
       <div class="col-sm-4 col-md-2 col-12">
           <div style="margin: 10px">
-            <div class="ZoomInactiveBoxes">
+            <div :class="monday.active == true ? 'zoomActiveBoxes' : 'ZoomBoxes'">
               <div class="text-bold text-center" style="font-size: 20px">
                 Monday
               </div>
             </div>
           </div>
           <div style="margin: 10px">
-            <div class="ZoomInactiveBoxes">
+            <div :class="monday.active == true ? 'zoomActiveBoxes' : 'ZoomBoxes'">
               <div class="text-center text-bold" style="font-size: 15px; color: red">
                 FACE TO FACE
               </div>
@@ -91,14 +91,14 @@
 
         <div class="col-sm-4 col-md-2 col-12">
           <div style="margin: 10px">
-            <div class="ZoomInactiveBoxes">
+            <div :class="tuesday.active == true ? 'zoomActiveBoxes' : 'ZoomBoxes'">
               <div class="text-bold text-center" style="font-size: 20px">
                 Tuesday
               </div>
             </div>
           </div>
           <div style="margin: 10px">
-            <div class="ZoomInactiveBoxes">
+            <div :class="tuesday.active == true ? 'zoomActiveBoxes' : 'ZoomBoxes'">
               <div class="text-center text-bold" style="font-size: 15px; color: red">
                 ONLINE
               </div>
@@ -168,14 +168,14 @@
 
         <div class="col-sm-4 col-md-2 col-12">
           <div style="margin: 10px">
-            <div class="ZoomInactiveBoxes">
+            <div :class="wednesday.active == true ? 'zoomActiveBoxes' : 'ZoomBoxes'">
               <div class="text-bold text-center" style="font-size: 20px">
                 Wednesday
               </div>
             </div>
           </div>
           <div style="margin: 10px">
-            <div class="ZoomInactiveBoxes">
+            <div :class="wednesday.active == true ? 'zoomActiveBoxes' : 'ZoomBoxes'">
               <div class="text-center text-bold" style="font-size: 15px; color: red">
                 ONLINE
               </div>
@@ -245,14 +245,14 @@
 
         <div class="col-sm-4 col-md-2 col-12">
           <div style="margin: 10px">
-            <div class="ZoomInactiveBoxes">
+            <div :class="thursday.active == true ? 'zoomActiveBoxes' : 'ZoomBoxes'">
               <div class="text-bold text-center" style="font-size: 20px">
                 Thursday
               </div>
             </div>
           </div>
           <div style="margin: 10px">
-            <div class="ZoomInactiveBoxes">
+            <div :class="thursday.active == true ? 'zoomActiveBoxes' : 'ZoomBoxes'">
               <div class="text-center text-bold" style="font-size: 15px; color: red">
                 ONLINE
               </div>
